@@ -1,0 +1,17 @@
+# clasp auth token — contains your Google OAuth credentials, never commit
+.clasprc.json
+
+# Local environment files
+.env
+*.env
+
+# Node modules (if clasp installed locally)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
